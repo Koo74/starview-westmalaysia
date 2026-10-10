@@ -25,5 +25,17 @@ An advanced stargazing site selector for Peninsular Malaysia. Find the best dark
 
 ---
 
+---
+
+## ☕ Support
+
+StarView West Malaysia is **free and open source** — no ads, no tracking, no paywalls.
+
+If it helped you find a great stargazing spot or plan a photo session, you can support development:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/stargazex)
+
+Every coffee is appreciated but **never expected**. 🌌
+
 # starview-westmalaysia
 AI-powered GeoAI agent for finding the best stargazing spots across Peninsular (West) Malaysia

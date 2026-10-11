@@ -8,6 +8,9 @@
 **🔭 [Launch Live App →](https://stargaze-westmalaysia.streamlit.app)**
 
 An advanced stargazing site selector for Peninsular Malaysia. Find the best dark-sky locations, check real-time haze conditions, and plan your next astrophotography session.
+<a href="https://www.buymeacoffee.com/stargazex">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+</a>
 
 ---
 
